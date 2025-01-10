@@ -1,4 +1,4 @@
-package JavaCollectionFramework;
+package JavaCollectionFramework.Map;
 
 import java.util.*;
 import java.util.Map.Entry;
