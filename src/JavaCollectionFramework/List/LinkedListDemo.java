@@ -56,6 +56,8 @@ public class LinkedListDemo {
             System.out.print(iterator.next() + " ");
         }
         System.out.println();
+        
+        System.out.println(list.reversed());
 
         // 5. Sorting the list
         list.add(25);
